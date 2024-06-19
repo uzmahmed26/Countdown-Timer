@@ -1,0 +1,22 @@
+{
+  "name": "procountdown-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^3.6.0",
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/date-fns": "^2.6.0",
+    "@types/inquirer": "^9.0.7"
+  }
+}
